@@ -1,0 +1,69 @@
+{
+    "total_patents": 100000,
+    "top_inventors": [
+        {
+            "name": "Shunpei",
+            "patents": 36
+        },
+        {
+            "name": "Kia",
+            "patents": 23
+        },
+        {
+            "name": "Tao",
+            "patents": 16
+        },
+        {
+            "name": "Junyi",
+            "patents": 13
+        },
+        {
+            "name": "Bartley K.",
+            "patents": 12
+        }
+    ],
+    "top_companies": [
+        {
+            "name": "SAMSUNG DISPLAY CO., LTD.",
+            "patents": 2064
+        },
+        {
+            "name": "International Business Machines Corporation",
+            "patents": 1788
+        },
+        {
+            "name": "CANON KABUSHIKI KAISHA",
+            "patents": 1048
+        },
+        {
+            "name": "SONY GROUP CORPORATION",
+            "patents": 765
+        },
+        {
+            "name": "Fujitsu Limited",
+            "patents": 651
+        }
+    ],
+    "top_countries": [
+        {
+            "country": "US",
+            "share": 0.4869
+        },
+        {
+            "country": "JP",
+            "share": 0.1696
+        },
+        {
+            "country": "DE",
+            "share": 0.0589
+        },
+        {
+            "country": "KR",
+            "share": 0.0537
+        },
+        {
+            "country": "CN",
+            "share": 0.0443
+        }
+    ]
+}
